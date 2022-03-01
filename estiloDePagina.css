@@ -1,0 +1,19 @@
+header{
+    font-family: 'Smooch Sans', sans-serif;
+    text-align: left;
+    background-color: #000000;
+    color: white;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("backgroundcris.jpg");
+    background-color: #cccccc;
+}
+
+footer{
+    font-family: 'Hubballi', cursive;
+    text-align: center;
+    background-color: darkslategrey;
+    color: white;
+}
